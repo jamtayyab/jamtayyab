@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamtayyab
 - 👀 I’m interested in programming and latest technologies that are making people lives more easier.
-- 🌱 I’m currently mobile app development for android and iOS with Flutter and Dart.
+- 🌱 I’m currently learning mobile app development for android and iOS with Flutter and Dart.
 - 📫 You can mail me on jamtayyab1@gmail.com
 
 <!---
